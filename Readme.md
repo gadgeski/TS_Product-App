@@ -22,6 +22,8 @@ npm install
 
 # アプリケーションの実行
 npx ts-node src/index.ts
+
+node index.js
 ```
 
 ## 学習のポイント
